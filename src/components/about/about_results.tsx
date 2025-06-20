@@ -1,7 +1,6 @@
 import { Card } from "antd";
 import { PiBuildingOfficeBold, PiStudentBold } from "react-icons/pi";
 import { FaTrophy } from "react-icons/fa";
-import { NumberTicker } from "../magicui/number-ticker";
 
 function AboutResults() {
   return (

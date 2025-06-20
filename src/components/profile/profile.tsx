@@ -1,9 +1,9 @@
 import { useQuery } from "@tanstack/react-query";
 import axios from "axios";
 import { useState } from "react";
-import { FaArrowLeft, FaCheck, FaTrashAlt } from "react-icons/fa";
+import { FaCheck, FaTrashAlt } from "react-icons/fa";
 import { MdEdit } from "react-icons/md";
-import { Link, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { FiDelete } from "react-icons/fi";
 import toast from "react-hot-toast";
 import { Modal } from "antd";

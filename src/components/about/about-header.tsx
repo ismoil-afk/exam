@@ -1,8 +1,6 @@
 import { useEffect } from "react";
 import * as AOS from "aos";
 import "aos/dist/aos.css";
-import { MdOutlineKeyboardArrowDown } from "react-icons/md";
-import { Link } from "react-router-dom";
 
 function AboutHeader() {
   useEffect(() => {
